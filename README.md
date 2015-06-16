@@ -1,6 +1,6 @@
 # 2015-06-15-python-tdd-with-django 
 
-A tutorial on test driven development by Harry Percival.
+A tutorial on test driven development at PyCon2015 by Harry Percival.
 
 ## References / Resoures
 Tutorial title - "TDD with Django, from scratch: a beginners intro to testing and web development"  
